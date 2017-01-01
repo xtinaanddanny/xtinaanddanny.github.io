@@ -23,13 +23,14 @@ body {
   max-width: 50em;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
-  padding: 4em 1em;
+  padding: 3em 1em;
   color: #566b78;
 }
 
 h2 {
-  margin-top: 1em;
-  padding-top: 1em;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
 }
 
 h1,
